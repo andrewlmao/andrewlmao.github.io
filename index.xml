@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Luo&#39;s Website</title>
+    <link>https://andluo.com/</link>
+    <description>Recent content on Andrew Luo&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://andluo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soft Body</title>
+      <link>https://andluo.com/softie/</link>
+      <pubDate>Mon, 22 May 2023 14:39:32 -0600</pubDate>
+      
+      <guid>https://andluo.com/softie/</guid>
+      <description>Softie 2D # Softie 2D A simple soft-body physics simulation
+No support for HTML canvas The following is a Javascript implementation of the particle spring-mass model, which can be used to investigate the dynamics of a soft-body and soft-body interactions with obstacles.. $$F = -kx$$ This simulation is based off of Gonkee&#39;s excellent [But How DO Soft Body Simulations Work?] video.
+Click to stimulate some velocity on a particle of the soft-body Press &#39;e&#39; to randomly simulate a mass particle # Parameters Number of Masses (Horitzontal) Number of Masses (Vertical) # Obstacles Floor Triangle Rectangle Start Init # Refresher on Basic Geometry Closest Point to a line Simple Raycasting Algorithm Point Line-Segment Distance # How It Works Similar to how atoms form a lattice structure in nature, the structure of a soft-body is composed of point masses attached to other point masses by springs according to 8-adjacency The triangles in the soft-body create a stable structure.</description>
+    </item>
+    
+    <item>
+      <title>Reading Short List</title>
+      <link>https://andluo.com/reading_short_list/</link>
+      <pubDate>Sat, 06 May 2023 10:17:45 -0600</pubDate>
+      
+      <guid>https://andluo.com/reading_short_list/</guid>
+      <description>2023 Reading Short List What&amp;rsquo;s Our Problem? - Tim Urban Great Expectations - Charles Dickens Principles - Ray Dalio How To Take Smart Notes - Sonke Ahrens Collected Essays - James Baldwin </description>
+    </item>
+    
+  </channel>
+</rss>
